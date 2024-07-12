@@ -1,6 +1,6 @@
 # Baby Names Analysis
 
-This repository contains a comprehensive analysis of baby names data spanning 101 years, from 1920 to 2020. The analysis includes various tasks that explore the popularity, trends, and patterns of baby names in the United States.
+This repository contains a comprehensive analysis of baby names data spanning 101 years, from 1920 to 2020. The analysis includes various tasks that explore the popularity, trends, and patterns of baby names in the United States. This is a datacamp project on SQL
 
 ## Tasks
 
